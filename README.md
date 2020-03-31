@@ -1,4 +1,4 @@
-# AzureBlockchainService
+# Powershell scripts for Azure Blockchain Service consortium management
 
 Azure Blockchain Service provides built-in consortium management through Powershell and the Azure Portal (view only functionality currently).  The Powershell cmdlets for consortium management are fairly straight-forward, but require some initial configuration before you can perform functionality such as inviting, removing or even viewing consortium information.  
 
