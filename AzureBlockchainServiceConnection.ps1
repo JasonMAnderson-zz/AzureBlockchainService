@@ -1,5 +1,6 @@
 #  Establishes a connection to the Azure Blockchain Service member
 #  Once executed, all consortium management powershell commands within the session can use $ContractConnection as input for your member's connection information 
+#  Change the information below in < > with the appropriate information from your blockchain member
 
 $global:config = @{
     FromNode = @{
